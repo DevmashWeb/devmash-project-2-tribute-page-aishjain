@@ -12,7 +12,21 @@ p{
 }
 
 hr{border-color: black;}
+
+
 IMG{
     display: block;
     margin-left: auto;
-    margin-right: auto; }
+    margin-right: auto;
+    
+     }
+
+
+. image{
+	
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
